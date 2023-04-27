@@ -1,9 +1,8 @@
 # Flutter Nedir, Neden Tercih Ediyoruz?
 
 ## Flutter Nedir?
-</br>
+
 ![flutter](https://github.com/canuzun1/Flutter-Nedir/blob/main/flutter.png)
-</br>
 
 <p>
 Flutter, Google tarafından geliştirilen açık kaynaklı bir mobil uygulama geliştirme framework'üdür. 
@@ -71,3 +70,4 @@ Bu, öğrendiklerinizi uygulamaya dönüştürmenizi ve gerçek dünya deneyimi 
 </br></br>
 
 ### Flutter öğrenmek, uygulama geliştirme konusunda yeniyseniz veya farklı bir platformdan geçiş yapıyorsanız biraz zor olabilir, ancak sabırlı olursanız ve yukarıdaki kaynakları kullanırsanız, kısa sürede Flutter'ı öğrenebilirsiniz.
+
